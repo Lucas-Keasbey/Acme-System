@@ -12,5 +12,9 @@ public class HelloWorld {
 		System.out.println(Msg);
 	}
 
+	public static String whatFor(String arg) {
+		String msg = arg + ", what for";
+		return msg;
+	}
 
 }
