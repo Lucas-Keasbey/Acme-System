@@ -6,5 +6,11 @@ public class HelloWorld {
 		System.out.println("Hello from Eclipse");
 		System.out.println("Lucas is working on his own branch");
 	}
+	
+	public static void heyNow() {
+		String Msg = "Hey Now!";
+		System.out.println(Msg);
+	}
+
 
 }
